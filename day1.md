@@ -60,3 +60,9 @@ http://qiita.com/kiminaka/items/87afd4a433dc655d8cfd　　
 http://qiita.com/yuku_t/items/483b56be83a3a5423b09  
 * ソフトマックス関数　</br>
 http://mathtrain.jp/softmax  
+* 最尤法</br>
+http://mathtrain.jp/mle  
+* ロジスティック回帰  
+http://blogs.teradata.com/international/ja/hhg10/   
+
+http://mathtrain.jp/softmax  
