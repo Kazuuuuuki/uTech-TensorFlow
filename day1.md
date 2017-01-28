@@ -49,13 +49,13 @@ Vector Representations of Words</br>
 <http://tensorflow.classcat.com/2016/02/19/tensorflow-tutorials-vector-representations-of-words/></br>
 
 基本的にチュートリアルだけではわからないことを補足します
-* ベクタ空間モデル   
+* ベクタ空間モデル</br>
 http://user.numazu-ct.ac.jp/~machida/fujii-22.pdf  
-* 潜在的意味解析   
+* 潜在的意味解析</br>  
 https://abicky.net/2012/03/24/211818/　  
-* 確率的ニューラルモデル   
+* 確率的ニューラルモデル</br>  
 http://qiita.com/kiminaka/items/87afd4a433dc655d8cfd　　 
-* Word2vec   
+* Word2vec</br>
 http://qiita.com/yuku_t/items/483b56be83a3a5423b09  
-* ソフトマックス関数　　  
+* ソフトマックス関数　</br>
 http://mathtrain.jp/softmax  
