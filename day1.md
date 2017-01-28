@@ -45,3 +45,6 @@ Railsやsqlなどの主にWebやデータベース周りが得意。(半年間�
 ##内容
 ***TensorFlow Tutorial***</br>
 Vector Representations of Words</br>
+<https://www.tensorflow.org/tutorials/word2vec/></br>
+テーマ　-> word2vecを理解し、TensorFlowで実装しよう  
+
