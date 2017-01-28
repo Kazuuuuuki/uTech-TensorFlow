@@ -48,4 +48,6 @@ Vector Representations of Words</br>
 <https://www.tensorflow.org/tutorials/word2vec/></br>
 <http://tensorflow.classcat.com/2016/02/19/tensorflow-tutorials-vector-representations-of-words/></br>
 
-基本的にチュートリアルだけではわからないことを
+基本的にチュートリアルだけではわからないことを補足します  
+*べくた空間モデル  
+http://user.numazu-ct.ac.jp/~machida/fujii-22.pdf  
