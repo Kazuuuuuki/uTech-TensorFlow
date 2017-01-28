@@ -65,4 +65,4 @@ http://mathtrain.jp/mle
 * ロジスティック回帰  
 http://blogs.teradata.com/international/ja/hhg10/   
 * 多クラス分類(SVM)  
-http://mathtrain.jp/softmax    
+http://qiita.com/shogiai/items/5191be6e27c4ccdfe67f  
