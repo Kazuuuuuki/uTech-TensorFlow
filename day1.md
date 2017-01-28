@@ -46,6 +46,7 @@ Railsやsqlなどの主にWebやデータベース周りが得意。(半年間�
 ***TensorFlow Tutorial***</br>
 Vector Representations of Words</br>
 <https://www.tensorflow.org/tutorials/word2vec/></br>
+<http://tensorflow.classcat.com/2016/02/19/tensorflow-tutorials-vector-representations-of-words/></br>
 
 ###テーマ　-> word2vecを理解し、TensorFlowで実装しよう!
 注意・簡単に和訳し、要約していますが、もちろん完璧ではないかもしれません。もし間違いや曖昧な点があれば積極的に指摘してください。そういったことも含めての自主ゼミです。そうでなければ自主ゼミは成立しません。　　
@@ -77,3 +78,5 @@ Vector Representations of Words</br>
 ってなりますよね。
 <http://qiita.com/yuku_t/items/483b56be83a3a5423b09>　　
 ここでいい感じに説明されてます。
+
+
