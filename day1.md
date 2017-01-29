@@ -47,9 +47,10 @@ Railsやsqlなどの主にWebやデータベース周りが得意。(半年間�
 Vector Representations of Words</br>
 <https://www.tensorflow.org/tutorials/word2vec/></br>
 <http://tensorflow.classcat.com/2016/02/19/tensorflow-tutorials-vector-representations-of-words/></br>
-上記の和訳の記事に従って進めていきます。  
-
-基本的にチュートリアルだけではわからないことを補足します  
+上記の和訳の記事に従って進めていきます。  
+解説記事　　
+http://enakai00.hatenablog.com/entry/2016/03/22/102437  
+基本的にチュートリアルだけではわからないことを補足します 　
 * DeepLearning(順伝播型ネットワーク)  
 http://qiita.com/ma-oshita/items/99b2cf313494adbb964d  
 * ベクタ空間モデル</br>
