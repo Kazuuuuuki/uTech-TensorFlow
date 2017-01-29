@@ -73,3 +73,5 @@ http://blogs.teradata.com/international/ja/hhg10/
 http://qiita.com/shogiai/items/5191be6e27c4ccdfe67f  
 * モンテカルロ法  
 http://www-fcs.acs.i.kyoto-u.ac.jp/~harada/OC/index.html  
+* 特徴抽出  
+http://blog.jubat.us/2012/08/blog-post_27.html  
