@@ -75,5 +75,5 @@ http://qiita.com/shogiai/items/5191be6e27c4ccdfe67f
 http://www-fcs.acs.i.kyoto-u.ac.jp/~harada/OC/index.html  
 * ドロップアウト  
 http://olanleed.hatenablog.com/entry/2013/12/03/010945
-* 誤差逆伝潘法  
+* 誤差逆伝播法  
 http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c  
