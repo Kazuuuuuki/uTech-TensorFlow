@@ -49,7 +49,9 @@ Vector Representations of Words</br>
 <http://tensorflow.classcat.com/2016/02/19/tensorflow-tutorials-vector-representations-of-words/></br>
 上記の和訳の記事に従って進めていきます。  
 
-基本的にチュートリアルだけではわからないことを補足します
+基本的にチュートリアルだけではわからないことを補足します  
+* DeepLearning(順伝播型ネットワーク)  
+http://qiita.com/ma-oshita/items/99b2cf313494adbb964d  
 * ベクタ空間モデル</br>
 http://user.numazu-ct.ac.jp/~machida/fujii-22.pdf  
 * 潜在的意味解析</br>
