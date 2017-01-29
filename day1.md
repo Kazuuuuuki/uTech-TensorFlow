@@ -68,3 +68,5 @@ http://mathtrain.jp/mle
 http://blogs.teradata.com/international/ja/hhg10/   
 * 多クラス分類(SVM)  
 http://qiita.com/shogiai/items/5191be6e27c4ccdfe67f  
+* モンテカルロ法  
+http://www-fcs.acs.i.kyoto-u.ac.jp/~harada/OC/index.html  
