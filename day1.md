@@ -51,7 +51,9 @@ Vector Representations of Words</br>
 解説記事</br>
 http://enakai00.hatenablog.com/entry/2016/03/22/102437</br>
 基本的にチュートリアルだけではわからないことを補足します 　
-* DeepLearning(順伝播型ネットワーク)  
+* 自然言語処理って何?</br>
+http://www.slideshare.net/kazoo04/ss-56821735</br>
+* DeepLearning(順伝播型ネットワーク)  
 http://qiita.com/ma-oshita/items/99b2cf313494adbb964d  
 * ベクタ空間モデル</br>
 http://user.numazu-ct.ac.jp/~machida/fujii-22.pdf  
