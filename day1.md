@@ -73,4 +73,5 @@ http://blogs.teradata.com/international/ja/hhg10/
 http://qiita.com/shogiai/items/5191be6e27c4ccdfe67f  
 * モンテカルロ法  
 http://www-fcs.acs.i.kyoto-u.ac.jp/~harada/OC/index.html  
-
+* ドロップアウト　　
+http://olanleed.hatenablog.com/entry/2013/12/03/010945　　
