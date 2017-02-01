@@ -40,7 +40,9 @@ Railsやsqlなどの主にWebやデータベース周りが得意。(半年間�
 
 機械学習をメインで行うエンジニアと、Webサーバーサイドをメインで行う二種類のエンジニアインターン生を募集しています。もし興味がある方がいらっしゃれば遠慮なくお声がけください。　　
 
-初回の今回はEverseの経営者かつ、機械学習をメインで行っている難波さんをお呼びしています。機械学習に限らずお聞きしたいことがあれば遠慮なく質問してみてください。
+初回の今回はEverseの経営者かつ、機械学習をメインで行っている難波さんをお呼びしています。機械学習に限らずお聞きしたいことがあれば遠慮なく質問してみてください。  
+
+##自己紹介 && 今後どういう自主ゼミにしたいかトーク
 
 ##内容
 ***TensorFlow Tutorial***</br>
@@ -50,6 +52,7 @@ Vector Representations of Words</br>
 上記の和訳の記事に従って進めていきます。</br>
 解説記事</br>
 http://enakai00.hatenablog.com/entry/2016/03/22/102437</br>
+
 基本的にチュートリアルだけではわからないことを補足します 　
 * 自然言語処理って何?</br>
 http://www.slideshare.net/kazoo04/ss-56821735</br>
@@ -83,7 +86,8 @@ http://postd.cc/a-beginners-guide-to-eigenvectors-pca-covariance-and-entropy/
 http://qiita.com/icoxfog417/items/5fd55fad152231d706c2  
 * (ロジスティック)シグモイド関数  
 http://ibisforest.org/index.php?%E3%82%B7%E3%82%B0%E3%83%A2%E3%82%A4%E3%83%89%E9%96%A2%E6%95%B0  
-
+* 　コード解説  
+https://fight-tsk.blogspot.jp/2016/10/word2vecbasicpy.html  
 ##次回  　　　　
-さらに様々な工夫をしてみよう！　　
+コードを理解しよう！　　
 
