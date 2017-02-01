@@ -7,7 +7,7 @@
 ##自己紹介
 氏名　渡邉知樹  
 大学 東京大学理科I類1年生  
-Everse Engineer(機会学習、Web、DBなどなど)  
+Engineer(機会学習、Web、DBなどなど) 
 趣味は数学
 
 facebook   
