@@ -79,3 +79,5 @@ http://olanleed.hatenablog.com/entry/2013/12/03/010945
 http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c  
 * 線形代数の基本と固有ベクトルとは?  
 http://postd.cc/a-beginners-guide-to-eigenvectors-pca-covariance-and-entropy/  
+
+##次回　　
