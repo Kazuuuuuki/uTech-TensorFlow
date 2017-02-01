@@ -45,13 +45,6 @@ Railsやsqlなどの主にWebやデータベース周りが得意。(半年間�
 ##自己紹介 && 今後どういう自主ゼミにしたいかトークタイム
 ##グループ分け
 ##内容
-***TensorFlow Tutorial***</br>
-Vector Representations of Words</br>
-<https://www.tensorflow.org/tutorials/word2vec/></br>
-<http://tensorflow.classcat.com/2016/02/19/tensorflow-tutorials-vector-representations-of-words/></br>
-上記の和訳の記事に従って進めていきます。</br>
-解説記事</br>
-http://enakai00.hatenablog.com/entry/2016/03/22/102437</br>
 まず、はじめに一つだけ言っておくと、結構難しいです。</br>
 一応動くだけのもの(または大まかな流れと考え方のみ)なら作れますが、ちゃんと理解しようとすると結構しんどいので頑張りましょう。</br>
 また、最初は私が本当に必須なものを説明してきますが、次回以降はグループで学習がメインとなります。仲間たちと協力しあって進めていくようお願いします。</br>
@@ -68,6 +61,14 @@ http://shironeko.hateblo.jp/entry/2016/10/29/173634　　</br>
 http://sig.tsg.ne.jp/ml2015/ml/2015/06/08/stochastic-gradient-descent.html　　</br>
 RNN(Deep Learning)  </br>
 http://www.slideshare.net/shotarosano5/chapter7-50542830  </br>
+## ここまで抑えられたらいざチュートリアルへ
+***TensorFlow Tutorial***</br>
+Vector Representations of Words</br>
+<https://www.tensorflow.org/tutorials/word2vec/></br>
+<http://tensorflow.classcat.com/2016/02/19/tensorflow-tutorials-vector-representations-of-words/></br>
+上記の和訳の記事に従って進めていきます。</br>
+解説記事</br>
+http://enakai00.hatenablog.com/entry/2016/03/22/102437</br>
 基本的にチュートリアルだけではわからないことを補足します 　
 * DeepLearning(順伝播型ネットワーク)  
 http://qiita.com/ma-oshita/items/99b2cf313494adbb964d  
