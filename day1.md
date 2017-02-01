@@ -59,11 +59,11 @@ https://www.amazon.co.jp/%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92-%E6%A9%9F%E6%A2%B0
 http://www.slideshare.net/kazoo04/ss-56821735 
 ## しょっぱなからグループワーク課題！！  
 多層パーセプトロンまでは必須。誤差伝播法は微妙だけど飛ばしてもいい気がします。</br>
-http://hokuts.com/category/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/ </br>
+http://hokuts.com/category/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</br>
 勾配降下法　　</br>
-http://shironeko.hateblo.jp/entry/2016/10/29/173634　　</br>
+http://shironeko.hateblo.jp/entry/2016/10/29/173634</br>
 確率的勾配降下法　　</br>
-http://sig.tsg.ne.jp/ml2015/ml/2015/06/08/stochastic-gradient-descent.html　　</br>
+http://sig.tsg.ne.jp/ml2015/ml/2015/06/08/stochastic-gradient-descent.html</br>
 RNN(Deep Learning)  </br>
 http://www.slideshare.net/shotarosano5/chapter7-50542830  </br>
 ## ここまで抑えられたらいざチュートリアルへ
