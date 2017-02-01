@@ -81,7 +81,8 @@ http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c
 http://postd.cc/a-beginners-guide-to-eigenvectors-pca-covariance-and-entropy/  
 * CNN(畳込みニューラルネットワーク)  
 http://qiita.com/icoxfog417/items/5fd55fad152231d706c2  
-
+* (ロジスティック)シグモイド関数  
+http://ibisforest.org/index.php?%E3%82%B7%E3%82%B0%E3%83%A2%E3%82%A4%E3%83%89%E9%96%A2%E6%95%B0  
 ##次回　　　　
 さらに様々な工夫をしてみよう！　　
 
