@@ -60,14 +60,14 @@ http://enakai00.hatenablog.com/entry/2016/03/22/102437</br>
 ##自然言語処理  
 http://www.slideshare.net/kazoo04/ss-56821735 
 ## しょっぱなからグループワーク課題！！  
-多層パーセプトロンまでは必須。誤差伝播法は微妙だけど飛ばしてもいい気がします。  
-http://hokuts.com/category/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/  
-勾配降下法　　
-http://shironeko.hateblo.jp/entry/2016/10/29/173634　　
-確率的勾配降下法　　
-http://sig.tsg.ne.jp/ml2015/ml/2015/06/08/stochastic-gradient-descent.html　　
-RNN(Deep Learning)  
-http://www.slideshare.net/shotarosano5/chapter7-50542830  
+多層パーセプトロンまでは必須。誤差伝播法は微妙だけど飛ばしてもいい気がします。</br>
+http://hokuts.com/category/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/ </br>
+勾配降下法　　</br>
+http://shironeko.hateblo.jp/entry/2016/10/29/173634　　</br>
+確率的勾配降下法　　</br>
+http://sig.tsg.ne.jp/ml2015/ml/2015/06/08/stochastic-gradient-descent.html　　</br>
+RNN(Deep Learning)  </br>
+http://www.slideshare.net/shotarosano5/chapter7-50542830  </br>
 基本的にチュートリアルだけではわからないことを補足します 　
 * DeepLearning(順伝播型ネットワーク)  
 http://qiita.com/ma-oshita/items/99b2cf313494adbb964d  
