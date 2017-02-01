@@ -80,4 +80,7 @@ http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c
 * 線形代数の基本と固有ベクトルとは?  
 http://postd.cc/a-beginners-guide-to-eigenvectors-pca-covariance-and-entropy/  
 
-##次回　　
+##次回　　　　
+さらに様々な工夫をしてみよう！　　
+http://postd.cc/a-beginners-guide-to-eigenvectors-pca-covariance-and-entropy/  く
+http://postd.cc/a-beginners-guide-to-eigenvectors-pca-covariance-and-entropy/  
