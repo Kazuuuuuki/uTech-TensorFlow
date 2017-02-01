@@ -57,11 +57,11 @@ http://enakai00.hatenablog.com/entry/2016/03/22/102437</br>
 また、最初は私が本当に必須なものを説明してきますが、次回以降はグループで学習がメインとなります。仲間たちと協力しあって進めていくようお願いします。</br>
 きっと多くの方が、本格的にDeep Learningに挑戦するのは初めてだと思います。最初は何もわからないかもしれません。</br>
 しかし、取り組んでみなければ結果はわかりませんし、取り組み続けていれば、きっとものになると信じて、頑張っていきましょう。
-##自然言語処理　　
+##DeepLearning(順伝播型ネットワーク)  
+http://qiita.com/ma-oshita/items/99b2cf313494adbb964d  
+##自然言語処理  
 http://www.slideshare.net/kazoo04/ss-56821735  
 基本的にチュートリアルだけではわからないことを補足します 　
-* 自然言語処理って何?</br>
-http://www.slideshare.net/kazoo04/ss-56821735</br>
 * DeepLearning(順伝播型ネットワーク)  
 http://qiita.com/ma-oshita/items/99b2cf313494adbb964d  
 * ベクタ空間モデル</br>
