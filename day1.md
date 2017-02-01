@@ -57,13 +57,10 @@ http://enakai00.hatenablog.com/entry/2016/03/22/102437</br>
 また、最初は私が本当に必須なものを説明してきますが、次回以降はグループで学習がメインとなります。仲間たちと協力しあって進めていくようお願いします。</br>
 きっと多くの方が、本格的にDeep Learningに挑戦するのは初めてだと思います。最初は何もわからないかもしれません。</br>
 しかし、取り組んでみなければ結果はわかりませんし、取り組み続けていれば、きっとものになると信じて、頑張っていきましょう。
-##DeepLearning(順伝播型ネットワーク)  
-http://qiita.com/ma-oshita/items/99b2cf313494adbb964d  
-##DeepLearning()
-##DeepLearning(RNN)  
-http://www.slideshare.net/shotarosano5/chapter7-50542830  
 ##自然言語処理  
-http://www.slideshare.net/kazoo04/ss-56821735  
+http://www.slideshare.net/kazoo04/ss-56821735 
+## しょっぱなからグループワーク課題！！  
+http://hokuts.com/category/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/  
 基本的にチュートリアルだけではわからないことを補足します 　
 * DeepLearning(順伝播型ネットワーク)  
 http://qiita.com/ma-oshita/items/99b2cf313494adbb964d  
