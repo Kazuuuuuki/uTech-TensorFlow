@@ -59,6 +59,9 @@ http://enakai00.hatenablog.com/entry/2016/03/22/102437</br>
 しかし、取り組んでみなければ結果はわかりませんし、取り組み続けていれば、きっとものになると信じて、頑張っていきましょう。
 ##DeepLearning(順伝播型ネットワーク)  
 http://qiita.com/ma-oshita/items/99b2cf313494adbb964d  
+##DeepLearning()
+##DeepLearning(RNN)  
+http://www.slideshare.net/shotarosano5/chapter7-50542830  
 ##自然言語処理  
 http://www.slideshare.net/kazoo04/ss-56821735  
 基本的にチュートリアルだけではわからないことを補足します 　
@@ -67,9 +70,7 @@ http://qiita.com/ma-oshita/items/99b2cf313494adbb964d
 * ベクタ空間モデル</br>
 http://user.numazu-ct.ac.jp/~machida/fujii-22.pdf  
 * 潜在的意味解析</br>
-https://abicky.net/2012/03/24/211818/　  
-* 確率的ニューラルモデル</br>  
-http://qiita.com/kiminaka/items/87afd4a433dc655d8cfd　　 
+https://abicky.net/2012/03/24/211818/　  　 
 * Word2vec</br>
 http://tkengo.github.io/blog/2016/05/09/understand-how-to-learn-word2vec/?utm_source=dlvr.it&utm_medium=twitter    
 * ソフトマックス関数　</br>
