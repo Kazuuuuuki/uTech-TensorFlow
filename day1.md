@@ -62,7 +62,7 @@ https://abicky.net/2012/03/24/211818/　
 * 確率的ニューラルモデル</br>  
 http://qiita.com/kiminaka/items/87afd4a433dc655d8cfd　　 
 * Word2vec</br>
-http://qiita.com/yuku_t/items/483b56be83a3a5423b09  
+http://tkengo.github.io/blog/2016/05/09/understand-how-to-learn-word2vec/?utm_source=dlvr.it&utm_medium=twitter    
 * ソフトマックス関数　</br>
 http://mathtrain.jp/softmax  
 * 最尤法</br>
