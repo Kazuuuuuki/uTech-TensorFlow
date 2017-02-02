@@ -77,6 +77,8 @@ http://enakai00.hatenablog.com/entry/2016/03/22/102437</br>
 基本的にチュートリアルだけではわからないことを補足します 　
 * DeepLearning(順伝播型ネットワーク)  
 http://qiita.com/ma-oshita/items/99b2cf313494adbb964d  
+* 線形識別モデル  
+http://sig.tsg.ne.jp/ml2015/ml/2015/05/24/linear-recognition-model.html  
 * ベクタ空間モデル</br>
 http://user.numazu-ct.ac.jp/~machida/fujii-22.pdf  
 * 潜在的意味解析</br>
