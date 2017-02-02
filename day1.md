@@ -103,7 +103,9 @@ http://postd.cc/a-beginners-guide-to-eigenvectors-pca-covariance-and-entropy/
 http://qiita.com/icoxfog417/items/5fd55fad152231d706c2  
 * (ロジスティック)シグモイド関数  
 http://ibisforest.org/index.php?%E3%82%B7%E3%82%B0%E3%83%A2%E3%82%A4%E3%83%89%E9%96%A2%E6%95%B0  
-* 　コード解説  
+* RNN  
+http://qiita.com/kiminaka/items/87afd4a433dc655d8cfd  
+* コード解説  
 https://fight-tsk.blogspot.jp/2016/10/word2vecbasicpy.html  　
 
 ##次回  　　　　
