@@ -64,8 +64,8 @@ http://hokuts.com/category/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/%E6%A9%
 http://shironeko.hateblo.jp/entry/2016/10/29/173634</br>
 確率的勾配降下法　　</br>
 http://sig.tsg.ne.jp/ml2015/ml/2015/06/08/stochastic-gradient-descent.html</br>
-RNN(Deep Learning)  </br>
-http://www.slideshare.net/shotarosano5/chapter7-50542830  </br>
+Word2vec(今回のテーマ)</br>
+http://tkengo.github.io/blog/2016/05/09/understand-how-to-learn-word2vec/?utm_source=dlvr.it&utm_medium=twitter</br>
 ## ここまで抑えられたらいざチュートリアルへ
 ***TensorFlow Tutorial***</br>
 Vector Representations of Words</br>
