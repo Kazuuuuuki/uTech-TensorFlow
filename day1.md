@@ -107,8 +107,11 @@ http://qiita.com/icoxfog417/items/5fd55fad152231d706c2
 http://ibisforest.org/index.php?%E3%82%B7%E3%82%B0%E3%83%A2%E3%82%A4%E3%83%89%E9%96%A2%E6%95%B0  
 * RNN  
 http://qiita.com/kiminaka/items/87afd4a433dc655d8cfd  
-* コード解説  
-https://fight-tsk.blogspot.jp/2016/10/word2vecbasicpy.html  　
+* コード解説(word2vec)  
+https://fight-tsk.blogspot.jp/2016/10/word2vecbasicpy.html  
+* LSTM  
+http://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca  
+
 
 ##次回  　　　　
 コードを理解しよう！　　
