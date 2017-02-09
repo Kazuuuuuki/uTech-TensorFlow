@@ -111,6 +111,8 @@ http://qiita.com/kiminaka/items/87afd4a433dc655d8cfd
 https://fight-tsk.blogspot.jp/2016/10/word2vecbasicpy.html  
 * LSTM  
 http://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca  
+* TensorFlowチュートリアル(RNN)
+http://tensorflow.classcat.com/2016/03/13/tensorflow-cc-recurrent-neural-networks/  
 
 
 ##次回  　　　　
